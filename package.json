@@ -7,7 +7,6 @@
     "build": "ng build --prod",
     "lint": "ng lint",
     "test": "ng test",
-    "e2e": "ng e2e",
     "analyze": "ng build --prod --stats-json && webpack-bundle-analyzer ./dist/demo/stats-es2015.json",
     "lib:build": "ng build md5",
     "lib:watch": "ng build md5 --watch",
